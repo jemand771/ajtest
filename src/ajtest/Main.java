@@ -7,6 +7,7 @@ public class Main {
 		System.out.println("Hello World! :)");
 		
 		System.out.println("what 1 nize dai");
+	
 		//blub
 		//hallo
 		//das
@@ -16,4 +17,7 @@ public class Main {
 		//kommentare
 	}
 
+	public static int addNumbers(int a, int b) {
+		return a+b;
+	}
 }
