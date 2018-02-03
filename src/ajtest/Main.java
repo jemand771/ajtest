@@ -7,6 +7,10 @@ public class Main {
 		System.out.println("Hello World! :)");
 		
 		System.out.println("what 1 nize dai");
+		
 	}
 
+	public static int addNumbers(int a, int b) {
+		return a+b;
+	}
 }
