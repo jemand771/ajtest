@@ -6,7 +6,7 @@ public class Main {
 
 		System.out.println("Hello World! :)");
 		
-		//TODO add "what a nice day"
+		System.out.println("what 1 nize dai");
 	}
 
 }
