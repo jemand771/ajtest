@@ -8,6 +8,12 @@ public class Main {
 		
 		System.out.println("what 1 nize dai");
 		//blub
+		//hallo
+		//das
+		//sind 
+		// aber
+		//viele
+		//kommentare
 	}
 
 }
